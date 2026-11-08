@@ -1,5 +1,4 @@
 
-    -- ============================================================
     -- BẮT ĐẦU LOAD MENU
     -- ============================================================
     local repo = "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/"
